@@ -1,14 +1,14 @@
 ## *Who* is the bug affecting?
-<!-- Ex. All supervisors, Sally Supervisor, Level 1 CCs -->
+<!-- Ex. All players, ayyubids, admins -->
 
 ## *What* is affected by this bug?
-<!-- Ex. supervision, sending messages, texter profiles -->
+<!-- Ex. Player loading, capture system, Animus -->
 
 ## *When* does this occur?
-<!-- Ex. After ending a conversation, every night at 3pm, when I sign off -->
+<!-- Ex. When joining the game, upon death, when entering the Animus -->
 
 ## *Where* on the platform does it happen?
-<!-- Ex. In the a Supervisor chat box, on the conversation profile page, on the two-factor screen -->
+<!-- Ex. At Jerusalem, at any map -->
 
 
 ## *How* do we replicate the issue?
