@@ -1,3 +1,5 @@
+<!-- The title of your issue should be present-tense and descriptive, but not too verbose. -->
+
 ## *Who* is the bug affecting?
 <!-- Ex. All players, ayyubids, admins -->
 
